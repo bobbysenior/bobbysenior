@@ -4,6 +4,8 @@
 
 Hey! I'm an engineering student passionate about computer science. Here you'll find personal projects and school work — most code is hand-written, and anything AI-assisted is clearly labeled.
 
+My portfolio : https://bobbysenior.github.io/portfolio/
+
 ---
 ### 🔧 Languages and Tools
 
